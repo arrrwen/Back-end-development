@@ -1,0 +1,9 @@
+1. Java、Python语言
+2. Java Web开发框架、Python Web开发框架
+3. 数据库，Mysql、SqlServer
+4. 非关系型数据库： Redis
+5. 微服务、DDD领域驱动
+6. Nginx、Dubbo、SpringCloud、Docker、K8S
+7. 消息队列， Kafka
+8. 数据仓库 Hbase
+9. Vibe Coding， 前端也可以写写
